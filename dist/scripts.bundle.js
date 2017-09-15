@@ -62,8 +62,8 @@ __webpack_require__("../../../../script-loader/addScript.js")(__webpack_require_
 /***/ 3:
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("../../../../script-loader/index.js!../../../../jquery/dist/jquery.slim.min.js");
 __webpack_require__("../../../../script-loader/index.js!../../../../popper.js/dist/umd/popper.min.js");
+__webpack_require__("../../../../script-loader/index.js!../../../../jquery/dist/jquery.slim.min.js");
 module.exports = __webpack_require__("../../../../script-loader/index.js!../../../../bootstrap/dist/js/bootstrap.min.js");
 
 

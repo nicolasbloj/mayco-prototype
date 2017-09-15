@@ -62,7 +62,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\n\n/*!\n * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)\n * Copyright 2013-2017 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)\n */\n\n body {\n  padding-top: 54px;\n}\n\n@media (min-width: 992px) {\n  body {\n    padding-top: 56px;\n  }\n}", ""]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\n\n/*!\n * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)\n * Copyright 2013-2017 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)\n */\n\n body {\n  padding-top: 54px;\n}\n\n@media (min-width: 992px) {\n  body {\n    padding-top: 56px;\n  }\n}\n\n/* Animation */\n\n\n.animated {\n  -webkit-animation-duration: 1s;\n  animation-duration: 1s;\n  -webkit-animation-fill-mode: both;\n  animation-fill-mode: both;\n}\n\n.fast {\n  -webkit-animation-duration: 0.4s;\n  animation-duration: 0.4s;\n  -webkit-animation-fill-mode: both;\n  animation-fill-mode: both;\n}\n\n@-webkit-keyframes fadeIn {\n  from {\n    opacity: 0;\n  }\n\n  to {\n    opacity: 1;\n  }\n}\n\n@keyframes fadeIn {\n  from {\n    opacity: 0;\n  }\n\n  to {\n    opacity: 1;\n  }\n}\n\n.fadeIn {\n  -webkit-animation-name: fadeIn;\n          animation-name: fadeIn;\n}", ""]);
 
 // exports
 
